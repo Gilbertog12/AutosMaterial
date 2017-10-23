@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">AutosMaterial</string>
+    <string name="action_settings">Settings</string>
+    <string name="Placa">Placa</string>
+    <string name="Marca">Marca</string>
+    <string name="Modelo">Modelo</string>
+    <string name="Color">Color</string>
+    <string name="Precio">Precio</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="Agregar">Agregar Auto</string>
+    <string name="Informacion">Informacion</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Eliminar">Eliminar</string>
+    <string name="Crear_Auto">Crear Auto</string>
+    <string name="mensaje_guardado">Auto Guardado Exitosamente!</string>
+    <string name="Listar_Autos">Listar Autos</string>
+    <string name="rojo">rojo</string>
+    <string name="negro">Negro</string>
+    <string name="azul">Azul</string>
+    <string name="blanco">blanco</string>
+    <string name="kia">kia</string>
+    <string name="mazda">Mazda</string>
+    <string name="Chevrolet">Chevrolet</string>
+    <string name="año1">2005</string>
+    <string name="año2">2010</string>
+    <string name="año3">2015</string>
+    <string name="año4">2008</string>
+    <string name="año5">2017</string>
+    <string name="no_vacio_error">Este campo no puede estar vacío</string>
+    <string name="persona_existente_error">Ya existe un Auto ingresado con esta Placa</string>
+
+    <string-array name="Opciones">
+        <item>@string/Crear_Auto</item>
+        <item>@string/Listar_Autos</item>
+
+    </string-array>
+
+    <string-array name="Marcas">
+        <item>@string/Chevrolet</item>
+        <item>@string/mazda</item>
+        <item>@string/kia</item>
+    </string-array>
+    <string-array name="Colores">
+        <item>@string/azul</item>
+        <item>@string/rojo</item>
+        <item>@string/negro</item>
+        <item>@string/blanco</item>
+
+    </string-array>
+
+    <string-array name="Modelos">
+        <item>@string/año1</item>
+        <item>@string/año2</item>
+        <item>@string/año3</item>
+        <item>@string/año4</item>
+        <item>@string/año5</item>
+    </string-array>
+</resources>

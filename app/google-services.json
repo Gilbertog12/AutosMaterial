@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "91111388626",
+    "firebase_url": "https://autosmaterial.firebaseio.com",
+    "project_id": "autosmaterial",
+    "storage_bucket": "autosmaterial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91111388626:android:f5abec6701d0b253",
+        "android_client_info": {
+          "package_name": "com.example.android.autosmaterial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91111388626-84ikj4t40f3erqoh41dd1s83sdtelmj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.autosmaterial",
+            "certificate_hash": "1c3edd78668ad1fde450f15319107534085d4dcd"
+          }
+        },
+        {
+          "client_id": "91111388626-jqup5j2v8v1lekndil17car0k2hfepuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzcq3fYgxwulhNnFe4afU09IkquGheeRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91111388626-jqup5j2v8v1lekndil17car0k2hfepuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
